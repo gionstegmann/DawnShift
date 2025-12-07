@@ -10,6 +10,14 @@ Designed with a focus on smooth aesthetics (because if you have to wake up early
 
 *   **Shift your sleep schedule**: Set a current wake up and target wake up time, a number of days to shift and the app will calculate the daily shift for you and wake you up at the calculated time every day.
 
+### Screenshots
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d738da99-0de9-4e4c-825f-023acc7efa0b" width="21%" />
+    <img src="https://github.com/user-attachments/assets/9a71da95-8d5f-4492-95e3-bae885ac2960" width="21%" />
+    <img src="https://github.com/user-attachments/assets/4a73c49f-fcb2-4f13-afc0-769b66221f4a" width="21%" />
+</p>
+
 ## Future Features
 
 *   **Snooze Tracker**: Track how often and for how long you've been delaying the inevitable.
